@@ -32,18 +32,18 @@ Include your code here
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-Include your plot here
+![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/567e7d7c-2ae3-4e0c-a69b-5a59050021c4)
 
 ### Classification Report
 
-Include Classification Report here
+![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/c47d14fc-e88f-44ba-ada6-a226de898a46)
 
 ### Confusion Matrix
 
-Include confusion matrix here
+![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/e724c332-1feb-4317-a30d-213ae03cdb2d)
 
 ### New Sample Data Prediction
 
-Include your sample cell image input and output of your model.
+![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/d77f952d-325c-41ee-bc6f-c0c329fdc16d)
 
 ## RESULT
