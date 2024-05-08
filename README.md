@@ -7,11 +7,11 @@ To develop a deep neural network for Malaria infected cell recognition and to an
 ## Problem Statement and Dataset
 It involves achieving high accuracy in classifying malaria-infected cells versus uninfected cells to aid in the diagnosis of malaria from microscopic images. Your task would be to optimize the model, possibly by tuning hyperparameters, trying different architectures, or using techniques like transfer learning to improve classification accuracy.
 
-![327124447-85c0633d-9df2-4d72-a44f-93c22163bd1f](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/ae990c64-28c6-441a-ba62-bfebae61ca23)
+<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/ae990c64-28c6-441a-ba62-bfebae61ca23" width="400">
 
 
 ## Neural Network Model
-![327126818-9ef16a59-612c-471d-b63f-5be6ce38a243](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/4d786f63-08de-4844-81b2-2028dab47c41)
+<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/4d786f63-08de-4844-81b2-2028dab47c41" width="400">
 
 
 ## DESIGN STEPS
@@ -180,19 +180,19 @@ confusion_matrix(test_image_gen.classes,predictions)
 
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/567e7d7c-2ae3-4e0c-a69b-5a59050021c4)
+<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/567e7d7c-2ae3-4e0c-a69b-5a59050021c4" width="400">
 
 ### Classification Report
 
-![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/c47d14fc-e88f-44ba-ada6-a226de898a46)
+<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/c47d14fc-e88f-44ba-ada6-a226de898a46" width="400">
 
 ### Confusion Matrix
 
-![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/e724c332-1feb-4317-a30d-213ae03cdb2d)
+<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/e724c332-1feb-4317-a30d-213ae03cdb2d" width="300">
 
 ### New Sample Data Prediction
 
-![image](https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/d77f952d-325c-41ee-bc6f-c0c329fdc16d)
+<img src = "https://github.com/Adhithyaram29D/malaria-cell-recognition/assets/119393540/d77f952d-325c-41ee-bc6f-c0c329fdc16d" width="300">
 
 ## RESULT:
 Thus, a deep neural network for Malaria infected cell recognition is developed and the performance is analyzed.
