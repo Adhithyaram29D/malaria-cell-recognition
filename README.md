@@ -38,7 +38,7 @@ Generate predictions on the test data and calculate classification metrics.
 ### Register Number: 212222230008
 
 ## PROGRAM
-```
+```python
 # to share the GPU
 import tensorflow as tf
 from tensorflow.compat.v1.keras.backend import set_session
